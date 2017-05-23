@@ -1,0 +1,1 @@
+This python script is tested to run on Python 3.6.0
