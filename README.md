@@ -11,7 +11,7 @@ OpenSSL 1.0.2k  26 Jan 2017
 
 ## Operating System
 
-Theoretically, this script should run when the requirements for Python version and Openssl version are met. But to set the record, this script was run on ```macOS 10.12```.
+Theoretically, this script should run when the requirements for Python version and Openssl version are met. But to set the record, this script runs perfectly on ```macOS 10.12```.
 
 
 ## Running the script
