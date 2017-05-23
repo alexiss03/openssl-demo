@@ -1,16 +1,14 @@
-PYTHON VERSION
-==============
+## PYTHON VERSION
 
 Python 3.6.0 
 
 
-OPENSSL VERSION
-===============
+## OPENSSL VERSION
 
 OpenSSL 1.0.2k  26 Jan 2017
 
-RUNNING THE SCRIPT
-==================
+
+## RUNNING THE SCRIPT
 
 Run main.py using ```python main.py```
 
